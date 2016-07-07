@@ -1,6 +1,6 @@
-# docker-make
+# docker-build
 
-_docker-make_ adds _make_ to the official docker image.
+_docker-build_ adds build tools to the official docker image.
 
 ## Docker Hub
 Automated build is available at the [Docker Hub](https://hub.docker.com/r/wikiwi/docker-make).
