@@ -1,4 +1,6 @@
 # docker-build
+*__Warning__: This is an early alpha version without commitment for backwards compatibility.*
+
 _docker-build_ adds build tools to the official docker image.
 
 
